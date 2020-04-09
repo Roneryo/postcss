@@ -1,0 +1,12 @@
+*{
+    border:0;
+    padding:0;
+}
+:root{
+    --color:red;
+    --lightColor:lightgray;
+}
+body{
+    object-fit: contain;
+    display: flex;
+}
